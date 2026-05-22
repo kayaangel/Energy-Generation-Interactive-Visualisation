@@ -31,7 +31,7 @@ Filter: Toggle by specific fuel source or view all
 Legend: Dynamic legend showing fuel types in current view
 Line Chart: Time-series plot tracking generation trends by fuel type from 2013 to the selected year
 
-
+[![Watch the video](https://raw.githubusercontent.com/kayaangel/Advanced-visualisation/main/Video Demo Thumnail.png)](https://raw.githubusercontent.com/kayaangel/Advanced-visualisation/main/Video Demo 2.mp4)
 
 ### Technical Details
 
